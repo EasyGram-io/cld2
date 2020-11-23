@@ -1,5 +1,5 @@
 # cld2
---
+---
     import "cld2"
 
 Package cld2 implements language detection using the Compact Language Detector.
